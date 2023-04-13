@@ -28,7 +28,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
-PICS = (environ.get('PICS' ,'https://graph.org/file/01ddfcb1e8203879a63d7.jpg https://graph.org/file/d69995d9846fd4ad632b8.jpg https://graph.org/file/a125497b6b85a1d774394.jpg https://graph.org/file/43d26c54d37f4afb830f7.jpg https://graph.org/file/60c1adffc7cc2015f771c.jpg https://graph.org/file/d7b520240b00b7f083a24.jpg https://graph.org/file/0f336b0402db3f2a20037.jpg https://graph.org/file/39cc4e15cad4519d8e932.jpg https://graph.org/file/d59a1108b1ed1c6c6c144.jpg https://te.legra.ph/file/3a4a79f8d5955e64cbb8e.jpg https://graph.org/file/d69995d9846fd4ad632b8.jpg')).split()
+PICS = (environ.get('PICS' ,'https://telegra.ph/file/54f200eda6a73a39de17f.jpg https://telegra.ph/file/cf7152f51d5a2914ea3b2.jpg https://telegra.ph/file/5993bd4be27d3eb1627d9.jpg https://telegra.ph/file/0f4cc5450d4ecd2765670.jpg https://telegra.ph/file/b77558fb502c497400c64.jpg https://telegra.ph/file/338325b3811ff9d98415b.jpg https://telegra.ph/file/5d60564492cb765c3a8d4.jpg https://telegra.ph/file/dcacb9b0654ccc1e5a00c.jpg https://telegra.ph/file/7bc99dc0adfed6322cd6d.jpg https://telegra.ph/file/f78f457c68bc8d36ce219.jpg https://telegra.ph/file/a801fb82d3d0e4b248189.jpg https://telegra.ph/file/91dd68ab5c792c818cf16.jpg https://telegra.ph/file/134d382120139eafa2538.jpg https://telegra.ph/file/441608ff382fba1e77be4.jpg https://telegra.ph/file/1a3aa30a14f31164f6b92.jpg')).split()
 BOT_START_TIME = time()
 
 # Admins, Channels & Users
